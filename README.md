@@ -11,7 +11,7 @@ Hi there 👋 I'm Pramikha, a student, developer, marketer, writer and designer 
 
 ABOUT ME : <br>
 
-🔭 I’m currently working on improving web development & interpersonal skills. <br>
+🔭 I’m currently working on improving my web development, writing, designing and interpersonal skills. <br>
 🌱 I’m currently learning front-end development  <br>
 👯 I’m looking to collaborate on web development projects <br>
 💬 Ask me about front-end development, content writing, marketing, management & leadership, internships, life advice, career guidance etc. <br>
