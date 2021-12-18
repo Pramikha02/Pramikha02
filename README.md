@@ -1,4 +1,4 @@
-Hi there 👋 <br>
+Hi there 👋 I'm Pramikha, a student, developer, marketer, writer and designer from Chennai, India <br>
 ✅I am a passionate, detail-oriented , empathetic and an inclusive person possessing strong leadership
   skills. I am also a quick and passionate learner who loves challenging myself in all areas of life. I aspire
   to work as a full stack developer or a data scientist and use my skills to create impactful projects. I also aspire to work for various social causes in the future like solving   climate change , income inequality, unequal accessibility, lack of inclusivity, discrimination, healthcare crisis etc. in the future. <br>
