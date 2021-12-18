@@ -6,7 +6,7 @@ Hi there 👋 I'm Pramikha, a student, developer, marketer, writer and designer 
 ✅Having lived in several cities across India during my childhood, I'm a perpetual adapter who can easily adapt to new places,people and situations. Growth and progress in general   are two key concepts that excite me. I have worked with several startups in the past as a marketing lead/manager. I am currently exploring front-end development. I love learning latest & trending skills and working with non-profits in my free time ! <br>
 
 ✅In my free time I love to read self help and philosophy books and write on medium.
-  Please checkout my work on medium !
+  Please checkout my work on medium ! <br>
   <a href="https://pramikhakannan.medium.com/">Medium Blog</a>
 
 ABOUT ME : <br>
