@@ -7,7 +7,7 @@ Hi there 👋 I'm Pramikha, a student, developer, marketer, writer and designer 
 
 ✅In my free time I love to read self help and philosophy books and write on medium.
   Please checkout my work on medium !
-  <a href="https://pramikhakannan.medium.com/">Medium Blog</a?
+  <a href="https://pramikhakannan.medium.com/">Medium Blog</a>
 
 ABOUT ME : <br>
 
