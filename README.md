@@ -18,7 +18,7 @@ ABOUT ME : <br>
 📫 How to reach me:  <br>
 <a href="https://www.linkedin.com/in/pramikhakannan/">Linkedin</a> <br>
 <a href="https://twitter.com/PramikhaKannan">Twitter</a>  <br>
-<a href="https://pramikhakannan.medium.com/">Medium Blog</a>
+<a href="https://pramikhakannan.medium.com/">Medium Blog</a> <br>
 Email - pramikhakannan@gmail.com <br>
 
 😄 Pronouns: She/Her <br>
