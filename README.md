@@ -23,6 +23,6 @@ Email - pramikhakannan@gmail.com <br>
 
 😄 Pronouns: She/Her <br>
 ⚡ Fun fact: I'm a perpetual New Kid - Having lived in several cities across India during my childhood, I'm a perpetual adapter who can easily adapt to new places,people and
-             situations. Growth and progress in general are two key concepts that excite me. I have an insatiable thirst for knowledge and learning new skills !
+             situations. Growth and progress in general are two key concepts that excite me. I have an insatiable and relentless thirst for knowledge and learning new skills !
 
 
