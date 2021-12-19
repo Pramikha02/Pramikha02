@@ -1,3 +1,5 @@
+<h1>PRAMIKHA KANNAN</h1>
+  
 Hi there 👋 I'm Pramikha, a student, developer, marketer, writer and designer from Chennai, India <br>
 ✅I am a passionate, detail-oriented , empathetic and an inclusive person possessing strong leadership
   skills. I am also a quick and passionate learner who loves challenging myself in all areas of life. I aspire
