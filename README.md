@@ -19,7 +19,6 @@ ABOUT ME : <br>
 <a href="https://www.linkedin.com/in/pramikhakannan/">Linkedin</a> <br>
 <a href="https://twitter.com/PramikhaKannan">Twitter</a>  <br>
 <a href="https://pramikhakannan.medium.com/">Medium Blog</a> <br>
-Email - pramikhakannan@gmail.com <br>
 
 😄 Pronouns: She/Her <br>
 ⚡ Fun fact: I'm a perpetual New Kid - Having lived in several cities across India during my childhood, I'm a perpetual adapter who can easily adapt to new places,people and
