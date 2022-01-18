@@ -3,7 +3,7 @@
 Hi there 👋 I'm Pramikha, a student, developer, marketer, writer and designer from Chennai, India <br>
 ✅I am a passionate, detail-oriented , empathetic and an inclusive person possessing strong leadership
   skills. I am also a quick and passionate learner who loves challenging myself in all areas of life. I aspire
-  to work as a full stack developer or a data scientist and use my skills to create impactful projects. I also aspire to work for various social causes in the future like solving   climate change , income inequality, unequal accessibility, lack of inclusivity, discrimination, healthcare crisis etc. in the future. <br>
+  to work as a full stack developer or a data scientist and use my skills to create impactful projects. <br>
 
 ✅I have worked with several startups in the past as a marketing lead/manager. I am currently exploring front-end development. I love learning latest & trending skills and working with non-profits in my free time ! In my free time I love to read self help and philosophy books and write on medium.
   Please checkout my work on medium ! <br>
