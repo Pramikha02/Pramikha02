@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramikha</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">I'm passionate about full stack development & Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramikha02&label=Profile%20views&color=0e75b6&style=flat" alt="pramikha02" /> </p>
 
