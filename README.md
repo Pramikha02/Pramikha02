@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pramikhakannan@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/techwithpramikha/](https://www.linkedin.com/in/techwithpramikha/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/pramikha02/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
