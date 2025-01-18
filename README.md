@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramikha</h1>
-<h3 align="center">Passionate about DevOps & Cloud Computing </h3>
+<h3 align="center">Passionate about neuroscience & deep learning </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramikha02&label=Profile%20views&color=0e75b6&style=flat" alt="pramikha02" /> </p>
 
