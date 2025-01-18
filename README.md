@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pramikhakannan" target="blank"><img src="https://img.shields.io/twitter/follow/pramikhakannan?logo=twitter&style=for-the-badge" alt="pramikhakannan" /></a> </p>
 
-- 🌱 I’m currently learning **CCNA and AWS**
+- 🌱 I’m currently learning **neuronal modelling & NLP**
 
 
 - 📫 How to reach me **pramikhakannan@gmail.com**
